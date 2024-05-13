@@ -1,4 +1,4 @@
-import "./user.scss"
+import "./users.scss"
 
 export default function Users() {
   return (
