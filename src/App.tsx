@@ -7,6 +7,8 @@ import Navbar from "./components/navbar/Navbar";
 import Footer from "./components/footer/Footer";
 import Menu from "./components/menu/Menu";
 
+import "./styles/global.scss";
+
 function App() {
   const Layout = () => {
     return (
